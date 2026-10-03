@@ -1,0 +1,5 @@
+1;Create a website;Develop the website's home page;Ivanov;1;New
+2;Fix the design;Fix the appearance of the home page;Petrov;2;In progress
+3;Add authorization;Add user login and registration;Ivanov;3;New
+4;Check for errors;Check the website for errors;Sidorov;2;New
+5;Update the database;Add new data to the database;Petrov;1;In progress
